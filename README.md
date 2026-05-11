@@ -12,7 +12,7 @@ O script simula o ciclo de instrução (Fetch-Decode-Execute). No código, imple
 
 ## Arquivos
 * **Codigo Fonte:** [cpu-von-neumann.py](./cpu-von-neumann.py)
-* **Artigo Academico:** [Ler Artigo Completo (PDF)]([./Simulacao%20de%20uma%20CPU%20em%20Pyhton%20baseada%20na%20Arquitetura%20de%20Von%20Neumann.pdf](https://github.com/samuel-valentimm/SimuladorPython-Cpu-Von-Neumann/blob/main/Simulação%20de%20uma%20CPU%20em%20Python%20baseada%20na%20Arquitetura%20de%20Von%20Neumann.pdf))
+* **Artigo Academico:** [Ler Artigo Completo (PDF)](https://github.com/samuel-valentimm/SimuladorPython-Cpu-Von-Neumann/blob/main/Simulação%20de%20uma%20CPU%20em%20Python%20baseada%20na%20Arquitetura%20de%20Von%20Neumann.pdf)
 
 ## Exemplo de execução
 Tirei um print do terminal para mostrar como o simulador imprime o passo a passo de cada instrução sendo executada:
